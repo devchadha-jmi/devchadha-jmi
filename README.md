@@ -32,9 +32,10 @@ I am an individual with a strong technical foundation in **_Digital Electronics_
 ## 📈 GitHub Stats & Streaks
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devchadha-jmi&show_icons=true&theme=radical&hide_rank=false&rank_icon=github" alt="Dev's GitHub stats" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devchadha-jmi&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devchadha-jmi&show_icons=true&theme=radical&hide_rank=false&rank_icon=github" alt="Dev's GitHub stats" style="width: 400px;" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devchadha-jmi&layout=compact&theme=radical" alt="Top Languages" style="width: 400px;" />
 </p>
+
 
 </br>
 
