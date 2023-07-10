@@ -12,10 +12,7 @@ I am an individual with a strong technical foundation in **_Digital Electronics_
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Forgive my cat please" width="200" height="100" />
-  <p align="center" style="font-size: 8px; letter-spacing: 400px;">
-  PLEASE FORGIVE MY CAT
-</p>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Forgive my cat please" width="250" height="150" />
 </p>
 
 
