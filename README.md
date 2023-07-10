@@ -7,9 +7,6 @@ I am an individual with a strong technical foundation in **_Digital Electronics_
 - 🌱 Currently learning: Advanced Digital Design 
 - 📫 How to reach me: chadhadev2002@gmail.com
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devchadha-jmi&theme=radical" alt="GitHub Profile Stats" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Forgive my cat please" width="250" height="150" />
